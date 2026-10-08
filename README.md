@@ -42,7 +42,6 @@ The framing throughout is accessibility-oriented. It treats clarity in human-mod
 
 This is a pilot study. Findings are preliminary and based on single sessions per model-condition pairing, scored by a single scorer. The work documents behaviorally inducible patterns and warrants further investigation at scale. Future work directions are listed in the study.
 
-A vulnerability finding from the pilot, related to the interaction between user-level protocols and native model safety behavior, is being addressed through separate responsible disclosure to the relevant model developers and is not included in the published materials.
 
 ## Engaging with this work
 

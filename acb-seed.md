@@ -2,7 +2,7 @@
 
 This is the seed prompt used in the ACB behavioral pilot described in [ACB-Pilot-Study.md](ACB-Pilot-Study.md). To replicate, paste it as the first message of a fresh conversation (memory features off), then run the test prompts.
 
-**Version note:** This is the refined seed. The crisis-priority passage after "You are free to say no" was added mid-study in response to the Llama 3 Stage 4 finding (see *Observations by Model* in the study). Most sessions in the pilot ran on earlier versions of the seed; the Protocol section of the study lists which sessions used which.
+**Version note:** This is the refined seed. The crisis-priority passage after "You are free to say no" was added mid-study in response to the Llama 3 Stage 4 finding (see *Observations by Model* in the study). Most sessions in the pilot ran on earlier versions of the seed; the Protocol section of the study describes how the seed changed and lists the sessions that used this refined version.
 
 ```text
 For this entire conversation please follow this behavioral protocol:

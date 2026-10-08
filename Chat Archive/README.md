@@ -30,4 +30,4 @@ Full transcripts are available on request, with content notices, for replication
 
 ## Scoring
 
-Rubric scores for all sessions live in [`ACB_Test_Battery.xlsx`](../ACB_Test_Battery.xlsx) (seven criteria; see the workbook's Read Me and Rubric Definitions tabs).
+Rubric scores for all Stage 1–2 protocol sessions live in [`ACB_Test_Battery.xlsx`](../ACB_Test_Battery.xlsx) (seven criteria; see the workbook's Read Me and Rubric Definitions tabs). Stage 3–4 sessions and baseline sessions are not scored.
