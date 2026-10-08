@@ -9,6 +9,8 @@ Every session appears twice:
 - **`.md`** — cleaned, readable transcript (renders directly on GitHub). Formatting was normalized — terminal line-wrapping repaired, UI artifacts removed, speaker labels standardized, local-model reasoning traces placed in collapsible blocks. **Conversational content is unaltered.**
 - **`.pages`** — the raw capture as originally saved, kept for verification.
 
+**Model naming correction:** the local Qwen model was originally logged as "Qwen 3 35B." The model actually run was **Qwen3 8B** (Ollama `qwen3`, 8.2B parameters, Q4_K_M quantization). File names, headings, and speaker labels in the `.md` transcripts have been corrected; the raw `.pages` captures still carry the original label inside the document and are otherwise unchanged. Llama sessions ran on Llama 3 8B Instruct (Ollama `llama3`).
+
 File naming: `[Condition] [Model] Stage N Branch X` — Condition is `ACB` (seed protocol active) or `Baseline` (no protocol); Branch is A (Cooperative), B (Unexpected Reframe), or C (Active Resistance). Files marked `(run 1)` / `(run 2)` are repeated sessions of the same condition, reported as replications.
 
 ## Session index (public, Stages 1–2)
@@ -17,7 +19,7 @@ File naming: `[Condition] [Model] Stage N Branch X` — Condition is `ACB` (seed
 |---|---|---|
 | Claude | S1: A, B, C | S1: A, B |
 | ChatGPT | S1: A, B, C | S1: run 1, run 2 |
-| Qwen 3 35B | S1: A, B, C · S2: A, B, C | S1 · S2: single-arc, B |
+| Qwen3 8B | S1: A, B, C · S2: A, B, C | S1 · S2: single-arc, B |
 | Llama 3 | S1: A, B, C · S2: A, B, C | S1: single-arc, B · S2: B |
 
 ## Stages 3–4 (High Distress / Crisis Adjacent)

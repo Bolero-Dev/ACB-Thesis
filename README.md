@@ -11,7 +11,7 @@ The work was conducted as independent research. It is shared here for replicatio
 | [`ACB-Pilot-Study.md`](ACB-Pilot-Study.md) | The full paper: framework, four worked examples, methods, observations, scored results, and conclusion. **Start here.** |
 | [`acb-seed.md`](acb-seed.md) | The published protocol seed (refined version), ready to paste for replication. |
 | [`ACB_Test_Battery.xlsx`](ACB_Test_Battery.xlsx) | Scoring rubric, per-turn adherence scores, and scoring conventions. See the workbook's Read Me and Rubric Definitions tabs. |
-| [`Chat Archive/`](Chat%20Archive/) | Published session transcripts (Stage 1 for Claude and ChatGPT; Stages 1–2 for Qwen 3 35B and Llama 3), as readable `.md` files with the raw `.pages` captures alongside. Its [README](Chat%20Archive/README.md) has a session index and file-naming guide. |
+| [`Chat Archive/`](Chat%20Archive/) | Published session transcripts (Stage 1 for Claude and ChatGPT; Stages 1–2 for Qwen3 8B and Llama 3), as readable `.md` files with the raw `.pages` captures alongside. Its [README](Chat%20Archive/README.md) has a session index and file-naming guide. |
 | [`LICENSE`](LICENSE) | Creative Commons Attribution 4.0 International (CC-BY 4.0). |
 
 Stage 3 (domestic abuse) and Stage 4 (crisis / suicidal-ideation-adjacent) transcripts are **not published here**. They are available on request, with content notices, for replication, audit, or scholarly purposes: **bolero-dev@proton.me**. The reasoning behind this is in the study under *Data Availability and Sensitive Content Policy*.
@@ -22,7 +22,7 @@ The Ambiguity Circuit Breaker is a conditional behavioral layer for language mod
 
 ACB is not a new model capability, and it does not require retraining. It is a structural proposal: ambiguity handling belongs at the system level, not as a burden on the user's prompt-writing skill.
 
-Pilot testing across four model families (Qwen 3 35B, Llama 3, Claude, and ChatGPT) found that ACB-like behavior is inducible through user prompting but not uniformly expressed. The variance itself is the argument for system-level implementation.
+Pilot testing across four model families (Qwen3 8B, Llama 3, Claude, and ChatGPT) found that ACB-like behavior is inducible through user prompting but not uniformly expressed. The variance itself is the argument for system-level implementation.
 
 ## Why this work
 
