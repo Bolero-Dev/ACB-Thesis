@@ -1,6 +1,6 @@
 # Chat Archive — ACB Behavioral Pilot
 
-Session transcripts for the study described in [Thesis.md](../Thesis.md). Each model has two folders: **stages 1–2** (published in full below) and **stages 3–4** (not published — see policy).
+Session transcripts for the study described in [ACB-Pilot-Study.md](../ACB-Pilot-Study.md). Each model has a **stages 1–2** folder, published in full below. Stage 3–4 transcripts are not published here; they are available on request (see policy below).
 
 ## What's in each stages 1–2 folder
 
@@ -22,7 +22,7 @@ File naming: `[Condition] [Model] Stage N Branch X` — Condition is `ACB` (seed
 
 ## Stages 3–4 (High Distress / Crisis Adjacent)
 
-Transcripts involving domestic abuse (Stage 3) and suicidal-ideation-adjacent content (Stage 4) are **not published in this repository**, consistent with the thesis's sensitive content policy: information should not be gatekept, but readers should choose if and when they engage with material that may cause harm in the encountering.
+Transcripts involving domestic abuse (Stage 3) and suicidal-ideation-adjacent content (Stage 4) are **not published in this repository**, consistent with the study's sensitive content policy: information should not be gatekept, but readers should choose if and when they engage with material that may cause harm in the encountering.
 
 Full transcripts are available on request, with content notices, for replication, audit, or scholarly purposes: **bolero-dev@proton.me**. A brief note about the reason is appreciated but not required.
 
